@@ -1,0 +1,43 @@
+
+body {
+  background-color: #90AACB;
+}
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+.heading{
+  color: #1E3163;
+}
+.sub-heading{
+  color: #334756;
+}
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #334756;
+  background-color: #90AACB;
+  border-radius: 10px;
+}
+.home-logo{
+  width:200px;
+  height:200px;
+}
+.g-register-btn{
+  margin-top: 10px;
+  margin-left:400px;
+}
+.register-btn{
+  margin-left: 47%;
+}
+.form-col{
+  background-color: #EFEFEF;
+}
+.text-l-para{
+  margin-left: 560px;
+  margin-top: 30px;
+}
+.text-r-para{
+  margin-left: 570px;
+  margin-top: 30px;
+}
